@@ -8,3 +8,8 @@ const app = express();
 // Middlewares
 app.use(express.json());
 app.use(cors());
+
+// Server checking route
+app.get('/', (req, res) => {
+    res.send('Fragrance Fusion server is on track!')
+})
