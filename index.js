@@ -13,3 +13,5 @@ app.use(cors());
 app.get('/', (req, res) => {
     res.send('Fragrance Fusion server is on track!')
 })
+
+app.listen(5000);
