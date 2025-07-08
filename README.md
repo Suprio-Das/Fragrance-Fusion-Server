@@ -1,5 +1,5 @@
 # Fragrance Fusion Server
-An Online Perfumes Shopping Zone for Mens and Womens.
+An Online Perfumes Shopping Zone for Mens and Womens, where users can purchase perfumes items online. Save the favourite products, add to cart option.
 <br><br>
 
 ### Technologies
